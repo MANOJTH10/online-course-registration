@@ -7,7 +7,7 @@ By utilizing **Derived State paradigms** and flat database collections, the appl
 ---
 
 ## 🚀 Live Demo
-🌐 **Deployment Portal:** [Paste your Vercel deployment URL here]
+🌐 **Deployment Portal:** [online-course-registration-tau.vercel.app]
 
 ---
 
