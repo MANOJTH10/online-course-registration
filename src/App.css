@@ -1,0 +1,36 @@
+/* --- ADMIN STUDENT TRACKER PANEL CSS --- */
+.student-tracker-box {
+  border-top: 4px solid #10b981 !important;
+}
+
+.student-username-tag {
+  background: #f1f5f9;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: 600;
+  color: #1e293b;
+}
+
+.no-courses-badge {
+  font-size: 0.8rem;
+  color: #94a3b8;
+  font-style: italic;
+}
+
+.admin-student-courses-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.mini-course-chip {
+  background: #f0fdf4;
+  color: #14532d;
+  border: 1px solid #bbf7d0;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  display: inline-block;
+  max-width: max-content;
+  font-weight: 500;
+}
